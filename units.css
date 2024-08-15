@@ -1,0 +1,150 @@
+.container {
+    background-color: aliceblue;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+
+header {
+    background-color: black;
+}
+
+h1 {
+    color: aliceblue;
+}
+
+.image-1 {
+    display: inline-block;
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+    border: solid;
+    box-shadow: 20px;
+}
+
+.image-2 {
+    display: inline-block;
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+    border: solid;
+    box-shadow: 20px;
+}
+
+.image-3 {
+    display: inline-block;
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+    border: solid;
+    box-shadow: 20px;
+}
+
+.image-4 {
+    display: inline-block;
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+    border: solid;
+    box-shadow: 20px;
+}
+
+.image-5 {
+    display: inline-block;
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+    border: solid;
+    box-shadow: 20px;
+}
+
+.image-6 {
+    display: inline-block;
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+    border: solid;
+    box-shadow: 20px;
+}
+
+.image-7 {
+    display: inline-block;
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+    border: solid;
+    box-shadow: 20px;
+}
+
+.image-8 {
+    display: inline-block;
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+    border: solid;
+    box-shadow: 20px;
+}
+
+.image-1 img {
+    display: inline-block;
+    width: 300px;
+    height: 300px;
+    /* padding: 20px;
+    margin: 10px; */
+}
+
+.image-2 img {
+    display: inline-block;
+    width: 300px;
+    height: 300px;
+    /* padding: 20px;
+    margin: 10px; */
+}
+
+.image-3 img {
+    display: inline-block;
+    width: 300px;
+    height: 300px;
+    /* padding: 20px;
+    margin: 10px; */
+}
+
+.image-4 img {
+    display: inline-block;
+    width: 300px;
+    height: 300px;
+    /* padding: 20px;
+    margin: 10px; */
+}
+
+.image-5 img {
+    display: inline-block;
+    width: 300px;
+    height: 300px;
+    /* padding: 20px;
+    margin: 10px; */
+}
+
+.image-6 img {
+    display: inline-block;
+    width: 300px;
+    height: 300px;
+    /* padding: 20px;
+    margin: 10px; */
+}
+
+.image-7 img {
+    display: inline-block;
+    width: 300px;
+    height: 300px;
+    /* padding: 20px;
+    margin: 10px; */
+}
+
+.image-8 img {
+    display: inline-block;
+    width: 300px;
+    height: 300px;
+    /* padding: 20px;
+    margin: 10px; */
+}

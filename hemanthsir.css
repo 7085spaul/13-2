@@ -1,0 +1,246 @@
+    header {
+        text-align: center;
+        padding: 64px;
+        border: 2px solid #000;
+        border-radius: 10px;
+        border-bottom: 2px solid #ccc;
+        background-color: rgb(241, 241, 241);
+        box-sizing: border-box;
+        color: rgb(0, 0, 0);
+        display: block;
+        font-family: Verdana, sans-serif;
+        font-size: 15px;
+        height: 244px;
+        line-height: 22.5px;
+        margin-bottom: 16px;
+        padding-bottom: 64px;
+        text-size-adjust: 100%;
+        width: 1250px;
+    }
+    
+    img {
+        /* position: relative;
+                bottom: 297px; */
+        border: 2px solid #000;
+        border-radius: 10px;
+        border-bottom: none;
+        border-right: none;
+        border-top: none;
+        box-sizing: border-box;
+        display: inline;
+        font-family: Verdana, sans-serif;
+        font-size: 15px;
+        height: 418.271px;
+        line-height: 22.5px;
+        text-size-adjust: 100%;
+        vertical-align: middle;
+        width: 627.99px;
+        margin: 10px;
+    }
+    
+    h1 {
+        color: red;
+    }
+    
+    .justify {
+        width: 627.99px;
+        display: block;
+        /* Change from inline-block to block */
+        margin: 10px;
+        /* Adds space above the .justify container */
+        text-align: justify;
+        /* Change from fixed height to auto to fit content */
+        border: 2px solid #000;
+        border-radius: 10px;
+        background-color: aquamarine;
+        box-sizing: border-box;
+        line-height: 22.5px;
+        text-size-adjust: 100px;
+        font-size: 15px;
+        height: 900.271px;
+    }
+    
+    p {
+        width: 623px;
+        display: block;
+    }
+    
+    .container1 {
+        border: 2px solid #000;
+        /* Added black border for the containers */
+        border-radius: 10px;
+        background-color: rgb(241, 241, 241);
+        box-sizing: border-box;
+        display: block;
+        font-family: Verdana, sans-serif;
+        font-size: 15px;
+        height: 418.292px;
+        line-height: 22.5px;
+        padding-left: 16px;
+        padding-top: 0.15px;
+        text-size-adjust: 100%;
+        width: 570.99px;
+        margin: 10px;
+    }
+    
+    .justify1 {
+        width: 240px;
+        text-align: justify;
+        box-sizing: border-box;
+        color: rgb(0, 0, 0);
+        display: block;
+        font-family: Verdana, sans-serif;
+        font-size: 15px;
+        height: 315px;
+        line-height: 22.5px;
+        margin-block-end: 15px;
+        margin-block-start: 15px;
+        margin-inline-end: 0px;
+        margin-inline-start: 0px;
+        text-size-adjust: 100%;
+        width: 273.99px;
+    }
+    
+    .container2 {
+        border: 2px solid #000;
+        /* Added black border for the containers */
+        border-radius: 10px;
+        margin: 10px;
+        background-color: rgb(241, 241, 241);
+        box-sizing: border-box;
+        display: block;
+        font-family: Verdana, sans-serif;
+        font-size: 15px;
+        height: 418.292px;
+        line-height: 22.5px;
+        padding-left: 16px;
+        padding-top: 0.15px;
+        text-size-adjust: 100%;
+        width: 570.99px;
+        /* margin-left: 740px; */
+        /* position: relative;
+            bottom: 900px; */
+    }
+    
+    .justify2 {
+        width: 240px;
+        text-align: justify;
+        box-sizing: border-box;
+        color: rgb(0, 0, 0);
+        display: block;
+        font-family: Verdana, sans-serif;
+        font-size: 15px;
+        height: 315px;
+        line-height: 22.5px;
+        margin-block-end: 15px;
+        margin-block-start: 15px;
+        margin-inline-end: 0px;
+        margin-inline-start: 0px;
+        text-size-adjust: 100%;
+        width: 273.99px;
+    }
+    
+    .container3 {
+        border: 2px solid #000;
+        /* Added black border for the containers */
+        border-radius: 10px;
+        margin: 10px;
+        background-color: rgb(241, 241, 241);
+        box-sizing: border-box;
+        display: block;
+        font-family: Verdana, sans-serif;
+        font-size: 15px;
+        height: 400.292px;
+        line-height: 22.5px;
+        padding-left: 16px;
+        padding-top: 0.15px;
+        text-size-adjust: 100%;
+        width: 570.99px;
+        /* margin-left: 740px; */
+        /* position: relative;
+            bottom: 900px; */
+    }
+    
+    .justify3 {
+        width: 240px;
+        text-align: justify;
+        box-sizing: border-box;
+        color: rgb(0, 0, 0);
+        display: block;
+        font-family: Verdana, sans-serif;
+        font-size: 15px;
+        height: 315px;
+        line-height: 22.5px;
+        margin-block-end: 15px;
+        margin-block-start: 15px;
+        margin-inline-end: 0px;
+        margin-inline-start: 0px;
+        text-size-adjust: 100%;
+        width: 273.99px;
+    }
+    
+    h2 {
+        color: blue;
+    }
+    
+    body {
+        background-color: aqua;
+    }
+    
+    marquee {
+        font-size: 1.2em;
+        color: red;
+        padding: 5px;
+        background-color: #fff;
+        border: 1px solid #000;
+        border-radius: 5px;
+    }
+    
+    .image {
+        display: block;
+        width: 700px;
+        box-sizing: border-box;
+        float: left;
+        font-size: 15px;
+        height: 1238px;
+        line-height: 22.5px;
+        padding-bottom: 0px;
+        padding-left: 8px;
+        text-size-adjust: 100px;
+        width: 643px;
+    }
+    
+    body {
+        width: 100%;
+    }
+    
+    .all {
+        display: block;
+        height: 1248.88px;
+        line-height: 22.5px;
+        margin-left: 0px;
+        margin-right: 0px;
+        max-width: 1400px;
+        padding-bottom: 0px;
+        padding-left: 8px;
+        padding-right: 8px;
+        padding-top: 0px;
+        text-size-adjust: 100px;
+        width: 982px;
+    }
+    
+    section {
+        box-sizing: border-box;
+        display: block;
+        float: left;
+        font-family: Verdana, sans-serif;
+        font-size: 15px;
+        height: 1245.88px;
+        line-height: 22.5px;
+        padding-bottom: 0px;
+        padding-left: 8px;
+        padding-right: 8px;
+        padding-top: 0px;
+        text-size-adjust: 100%;
+        width: 321.99px
+    }

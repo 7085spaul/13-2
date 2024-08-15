@@ -1,0 +1,97 @@
+header {
+    background-color: lightgrey;
+    text-align: center;
+    padding: 64px;
+    border: 2px solid #000;
+    border-radius: 10px;
+    border-bottom: 2px solid #ccc;
+}
+
+img {
+    width: 690px;
+    margin: 10px;
+    border: 2px solid #000;
+    border-radius: 10px;
+}
+
+h1 {
+    color: red;
+}
+
+.main-container {
+    display: flex;
+    /* Aligns image and section side by side */
+    align-items: flex-start;
+    /* Aligns items to the top */
+    margin-bottom: 20px;
+    /* Adds space below the image and section */
+}
+
+.image {
+    margin-right: 20px;
+    /* Adds space between the image and section */
+}
+
+.section-container {
+    display: flex;
+    flex-direction: column;
+    /* Aligns containers vertically within the section */
+}
+
+.container1,
+.container2,
+.container3 {
+    background-color: lightgrey;
+    width: 500px;
+    height: 300px;
+    margin: 10px;
+    border: 2px solid #000;
+    border-radius: 10px;
+}
+
+.container1,
+.container3 {
+    display: block;
+    /* Ensures containers stack in a column */
+}
+
+.container2 {
+    display: block;
+    /* Ensures containers stack in a column */
+}
+
+.justify {
+    width: 700px;
+    display: block;
+    /* Ensures it starts on a new line */
+    margin-top: 20px;
+    /* Adds space above the .justify container */
+    text-align: justify;
+    height: auto;
+    /* Adjusts height based on content */
+    border: 2px solid #000;
+    border-radius: 10px;
+    background-color: aquamarine;
+}
+
+p {
+    width: 700px;
+    display: block;
+}
+
+h2 {
+    color: blue;
+}
+
+body {
+    background-color: aqua;
+}
+
+marquee {
+    font-size: 1.2em;
+    color: red;
+    padding: 5px;
+    background-color: #fff;
+    border: 1px solid #000;
+    border-radius: 5px;
+}
